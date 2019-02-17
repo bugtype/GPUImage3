@@ -16,6 +16,8 @@ http://www.sunsetlakesoftware.com
 
 contact@sunsetlakesoftware.com
 
+lang : [ko](README.ko.md)
+
 ## Overview ##
 
 GPUImage 3 is the third generation of the <a href="https://github.com/BradLarson/GPUImage">GPUImage framework</a>, an open source project for performing GPU-accelerated image and video processing on Mac and iOS. The original GPUImage framework was written in Objective-C and targeted Mac and iOS, the second iteration rewritten in Swift using OpenGL to target Mac, iOS, and Linux, and now this third generation is redesigned to use Metal in place of OpenGL.
